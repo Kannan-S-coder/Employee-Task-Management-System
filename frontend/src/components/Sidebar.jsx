@@ -22,9 +22,6 @@ function Sidebar({ activeTab, setActiveTab }) {
           </button>
         ))}
       </nav>
-      <div className="sidebar-footer">
-        <div className="version-info">Stage 5A: Frontend Setup</div>
-      </div>
     </aside>
   );
 }
