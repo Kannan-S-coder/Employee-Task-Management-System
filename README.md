@@ -19,24 +19,14 @@ A robust full-stack web application designed for organizations to streamline emp
 ## 📸 Screenshots
 
 ### 1. Dashboard Overview
-> Real-time metric cards, task status breakdown, priority distribution, and recent task lists.
-![Dashboard](docs/screenshots/dashboard.png)
 
 ### 2. Employee Management
-> Full employee directory with department assignment and inline creation/editing.
-![Employees](docs/screenshots/employees.png)
 
 ### 3. Project Management
-> Project tracking with lifecycle statuses and start/end dates.
-![Projects](docs/screenshots/projects.png)
 
 ### 4. Task Management & Dynamic Filtering
-> Multi-criteria task filtering by status, priority, employee, and project.
-![Tasks](docs/screenshots/tasks.png)
 
 ### 5. Task Assignment & Workflow Form
-> Task modal for setting deadlines, project allocation, assignee, priority, and status.
-![Task Form](docs/screenshots/task-form.png)
 
 ---
 
