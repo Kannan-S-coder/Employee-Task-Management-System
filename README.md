@@ -19,14 +19,22 @@ A robust full-stack web application designed for organizations to streamline emp
 ## 📸 Screenshots
 
 ### 1. Dashboard Overview
+<img width="1917" height="930" alt="image" src="https://github.com/user-attachments/assets/c9c7178f-67bf-48ff-ae8c-4b5867771847" />
+<img width="1917" height="787" alt="image" src="https://github.com/user-attachments/assets/21b11bb2-3103-4f59-bbea-f30a33bd8a59" />
+
 
 ### 2. Employee Management
+<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/077dfb9a-34b3-4342-98d3-538cd277564e" />
+
 
 ### 3. Project Management
+<img width="1917" height="926" alt="image" src="https://github.com/user-attachments/assets/a6f70955-768b-4e1e-8317-ddf0b915f9bf" />
+
 
 ### 4. Task Management & Dynamic Filtering
+<img width="1917" height="857" alt="image" src="https://github.com/user-attachments/assets/5846d503-0489-40c6-be60-45332a4d60af" />
+<img width="1917" height="927" alt="image" src="https://github.com/user-attachments/assets/bac6e9e4-56af-4800-b41e-f4db5d088b67" />
 
-### 5. Task Assignment & Workflow Form
 
 ---
 
